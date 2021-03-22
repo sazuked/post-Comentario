@@ -10,8 +10,7 @@
 <body>
 <a href="{{route('home')}}" class="btn btn-outline-dark float-right ml-3 mt-2" >Ir para home</a>
     @foreach ( $sql as $comet)
-       
-        <table class="table">
+<table class="table">
   <thead>
     <tr>
       
